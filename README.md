@@ -69,4 +69,10 @@ As a volunteer, you may take one or more of the following responsibilities:
 
 ### Shout-out to the following volunteers
 
-- 
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://www.linkedin.com/in/ankit-kanyal-43460b169"><img src="https://avatars.githubusercontent.com/u/35369589?v=3?s=100" width="100px;" alt=""/><br /><sub><b>Ankit Kanyal</b></sub></a><br /></td>
+    </tr>
+  </tbody>
+</table>
