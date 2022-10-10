@@ -8,11 +8,11 @@ We will be taking a class on Saturdays and sharing problems and assignments rela
 
 1. Join our [Discord community](https://discord.gg/XRhdQkMkQp). Lecture will be held there.
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/XRhdQkMkQp)
+   [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/XRhdQkMkQp)
 
 2. Subscribe to our [YouTube channel](https://www.youtube.com/channel/UCOr2tU9paYaosUIz0IH7MHg/videos) for more exciting content.
 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCOr2tU9paYaosUIz0IH7MHg)
+   [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCOr2tU9paYaosUIz0IH7MHg)
 
 3. Get familiar with atleast 1 programming language, preferably from C++, Java, Python, or JavaScript.
 
