@@ -10,11 +10,11 @@ We will be taking a class on Saturdays and sharing problems and assignments rela
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/XRhdQkMkQp)
 
-3. Subscribe to our [YouTube channel](https://www.youtube.com/channel/UCOr2tU9paYaosUIz0IH7MHg/videos) for more exciting content.
+2. Subscribe to our [YouTube channel](https://www.youtube.com/channel/UCOr2tU9paYaosUIz0IH7MHg/videos) for more exciting content.
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCOr2tU9paYaosUIz0IH7MHg)
 
-4. Get familiar with atleast 1 programming language, preferably from C++, Java, Python, or JavaScript.
+3. Get familiar with atleast 1 programming language, preferably from C++, Java, Python, or JavaScript.
 
 # Course topics
 
