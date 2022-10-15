@@ -75,6 +75,7 @@ As a volunteer, you may take one or more of the following responsibilities:
       <td align="center"><a href="https://www.linkedin.com/in/ankit-kanyal-43460b169"><img src="https://avatars.githubusercontent.com/u/35369589?v=3?s=100" width="100px;" alt=""/><br /><sub><b>Ankit Kanyal</b></sub></a><br /></td>
       <td align="center"><a href="https://www.linkedin.com/in/sachin-kumar-roy-5336a716b"><img src="https://avatars.githubusercontent.com/u/53489887?v=3?s=100" width="100px;" alt=""/><br /><sub><b>Sachin Kumar Roy</b></sub></a><br /></td>
       <td align="center"><a href="https://www.linkedin.com/in/kanchangpr"><img src="https://avatars.githubusercontent.com/u/64818858?v=3?s=100" width="100px;" alt=""/><br /><sub><b>Kanchan Gupta</b></sub></a><br /></td>
+      <td align="center"><a href="https://www.linkedin.com/in/anirban-pal-6a1243130"><img src="https://avatars.githubusercontent.com/u/41924710?v=3?s=100" width="100px;" alt=""/><br /><sub><b>Anirban Pal</b></sub></a><br /></td>
     </tr>
   </tbody>
 </table>
