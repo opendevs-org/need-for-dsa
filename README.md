@@ -53,7 +53,7 @@ We will be taking a class on Saturdays and sharing problems and assignments rela
 
 # Who this course is for?
 
-This couse is meant for *doers* and people who believe in *practice makes perfect*. This not NOT a paid course, there will be no spoon-feeding. This is a community-driven course. We'll take the session, share resources and practice problems but you and *only* you will have to act and ask for help. 🙂
+This couse is meant for *doers* and people who believe in *practice makes perfect*. This is NOT a paid course, there will be no spoon-feeding. This is a community-driven course. We'll take the session, share resources and practice problems but you and *only* you will have to act and ask for help. 🙂
 
 If you're already familiar with DSA, there will be some challenging problems as well that you can solve and share your solutions. Feel free to volunteer as well.
 
