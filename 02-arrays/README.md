@@ -11,3 +11,9 @@ Please make sure to solve assignment problems given below. In case of any doubts
 - [1752. Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/)
 - [1848. Minimum Distance to the Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element/)
 - [1437. Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/)
+
+### Solutions
+
+Please post your solution on our discord server: [Need for DSA homework - Week 2](https://discord.com/channels/979773706534543420/1033695342534868992)
+
+You can also find solutions from your peers in variety of programming languages

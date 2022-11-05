@@ -22,3 +22,9 @@ Please make sure to solve assignment problems given below. In case of any doubts
 - [1403. Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/)
 - [1619. Mean of Array After Removing Some Elements](https://leetcode.com/problems/mean-of-array-after-removing-some-elements/)
 - [2037. Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/)
+
+### Solutions
+
+Please post your solution on our discord server: [Need for DSA homework - Week 3](https://discord.com/channels/979773706534543420/1036638156935675954)
+
+You can also find solutions from your peers in variety of programming languages

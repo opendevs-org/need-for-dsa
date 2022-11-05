@@ -24,3 +24,9 @@ Please make sure to solve assignment problems given below. In case of any doubts
 - [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
 - [674. Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)
 - [1299. Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)
+
+### Solutions
+
+Please post your solution on our discord server: [Need for DSA homework - Week 1](https://discord.com/channels/979773706534543420/1031068247732260864)
+
+You can also find solutions from your peers in variety of programming languages
