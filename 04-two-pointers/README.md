@@ -21,6 +21,6 @@ Coming soon
 
 ### Solutions
 
-Please post your solution on our discord server: [Need for DSA homework - Week 4](https://discord.com/channels/979773706534543420/1026872478527668304)
+Please post your solution on our discord server: [Need for DSA homework - Week 4](https://discord.com/channels/979773706534543420/1038743887117824021)
 
 You can also find solutions from your peers in variety of programming languages
