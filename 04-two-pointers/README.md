@@ -6,7 +6,15 @@ Please make sure to solve assignment problems given below. In case of any doubts
 
 ### Recording
 
-Coming soon
+[Youtube Link](https://youtu.be/FZDJZ8BJA74)
+
+<p align="center">
+  <a href="https://youtu.be/FZDJZ8BJA74">
+    <img src="https://img.youtube.com/vi/FZDJZ8BJA74/0.jpg" width="35%" title="Preview" alt="https://youtu.be/FZDJZ8BJA74">
+  </a>
+</p>
+
+**Like** mar dena and **subscribe** bhi! 🙂
 
 ### Leetcode Assignment Problems
 
