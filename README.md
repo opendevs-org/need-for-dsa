@@ -19,10 +19,10 @@ We will be taking a class on Saturdays and sharing problems and assignments rela
 # Course topics
 
 - Basic
-  - Arrays and Strings
-    - Binary Search
-    - Sorting
-    - etc.
+  - Arrays
+  - Sorting
+  - Two Pointers
+  - Binary Search
   - Hash tables
   - Recursion
   - Backtracking
