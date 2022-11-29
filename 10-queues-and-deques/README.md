@@ -10,14 +10,13 @@ Coming soon
 
 ### Leetcode Assignment Problems
 
-- [title](link)
-- [title](link)
-- [title](link)
-- [title](link)
-- [title](link)
-- [title](link)
-- [title](link)
-- [title](link)
+- [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)
+- [1700. Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/)
+- [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
+- [1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/)
+- [622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)
+- [950. Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/)
+- [1823. Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)
 
 ### Solutions
 

@@ -41,13 +41,6 @@ We will be taking a class on Saturdays and sharing problems and assignments rela
   - Union-Find (DSU)
   - Tries
   - Bitmasking
-  - Segment Trees
-  - Binary Indexed Tree (Fenwick Tree)
-  - Euler Tour of Tree
-  - LCA - Binary Lifting
-  - Meet-in-the-middle technique
-  - Math-heavy problems, Number theory
-  - Advanced topics of graphs, trees, and DP.
 
 **Note**: This is not the full list but only a subset of topics that we're going to cover in the sessions. Join the community to find more topics or request something you'd like to learn.
 
